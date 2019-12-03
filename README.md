@@ -1,4 +1,9 @@
 
+
+### Blog post
+
+https://aws.amazon.com/blogs/aws/amazon-sagemaker-autopilot-fully-managed-automatic-machine-learning/ 
+
 ### Companion slides
 
 ### Setup instructions
