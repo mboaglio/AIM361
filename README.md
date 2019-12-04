@@ -4,8 +4,6 @@
 
 https://aws.amazon.com/blogs/aws/amazon-sagemaker-autopilot-fully-managed-automatic-machine-learning/ 
 
-### Companion slides
-
 ### Setup instructions
 
 * Log out of the AWS console if you're already logged in.
