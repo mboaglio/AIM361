@@ -1,5 +1,4 @@
 
-
 ### Blog post
 
 https://aws.amazon.com/blogs/aws/amazon-sagemaker-autopilot-fully-managed-automatic-machine-learning/ 
@@ -40,4 +39,4 @@ https://aws.amazon.com/blogs/aws/amazon-sagemaker-autopilot-fully-managed-automa
 
 * Click on "Open Jupyter"
 
-* Click on the "Lab1.ipynb" notebook and get to work :) 
+* Click on the "Lab2.ipynb" notebook and get to work :) 
